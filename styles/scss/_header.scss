@@ -1,0 +1,20 @@
+header {
+    background-color: $colorGris;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    .logo {
+        height: 6rem;
+        width: auto;
+        margin-left: 20px;
+    }
+    nav {
+        width: 22rem;
+        ul {
+            display: flex;
+            list-style-type: none;
+            justify-content: space-between;
+        }
+    }
+}

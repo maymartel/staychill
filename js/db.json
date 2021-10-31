@@ -1,0 +1,117 @@
+{
+    "remeras": [
+        {
+            "nombre": "Cow control",
+            "categoria": "Remera",
+            "descripcion": "Remera de algodón cardado 24.1. Estampada con serigrafía",
+            "precio": 1800,
+            "stock": 100,
+            "foto": "../media/Cow control negra.jpg"
+        },
+        
+        {
+            "nombre": "420",
+            "categoria": "Remera",
+            "descripcion": "Remera de algodón cardado 24.1. Estampada con serigrafía",
+            "precio": 1800,
+            "stock": 100,
+            "foto": "../media/420 roja.jpg"
+        }
+        ,
+        {
+            "nombre": "Hate",
+            "categoria": "Remera",
+            "descripcion": "Remera de algodón cardado 24.1. Estampada con serigrafía",
+            "precio": 1800,
+            "stock": 100,
+            "foto": "../media/Hate azul.jpg"
+        }
+    ]
+    ,
+    "buzos": [
+        {
+            "nombre": "Arnold",
+            "categoria": "Buzo",
+            "descripcion": "Buzo de algodón con friza. Estampado con serigrafía",
+            "precio": 2900,
+            "stock": 100,
+            "foto": "../media/Arnold.jpg"
+        },
+        
+        {
+            "nombre": "Dog Abduction",
+            "categoria": "Buzo",
+            "descripcion": "Buzo de algodón con friza. Estampado con serigrafía",
+            "precio": 2900,
+            "stock": 100,
+            "foto": "../media/dogabduction.jpg"
+        }
+        ,
+        {
+            "nombre": "Suave",
+            "categoria": "Buzo",
+            "descripcion": "Buzo de algodón con friza. Estampado con serigrafía",
+            "precio": 2900,
+            "stock": 100,
+            "foto": "../media/Suave.jpg"
+        }
+    ]
+    ,
+    "encendedores": [
+        {
+            "nombre": "Alien",
+            "categoria": "Encendedores",
+            "descripcion": "Encendedor de plastico, 8cm de alto x 3,5cm de ancho x 1cm de espesor, recargable",
+            "precio": 250,
+            "stock": 100,
+            "foto": "../media/Alien.jpg"
+        },
+        
+        {
+            "nombre": "WSP",
+            "categoria": "Encendedores",
+            "descripcion": "Encendedor de plastico, 8cm de alto x 3,5cm de ancho x 1cm de espesor, recargable",
+            "precio": 250,
+            "stock": 100,
+            "foto": "../media/WSP.jpg"
+        }
+        ,
+        {
+            "nombre": "Ovni Pizza",
+            "categoria": "Encendedores",
+            "descripcion": "Encendedor de plastico, 8cm de alto x 3,5cm de ancho x 1cm de espesor, recargable",
+            "precio": 250,
+            "stock": 100,
+            "foto": "../media/OVNI-PIZZA.jpg"
+        }
+    ]
+    ,
+    "llaveros": [
+        {
+            "nombre": "Burns",
+            "categoria": "Llaveros",
+            "descripcion": "Llavero de plástico realizado con impresión 3D",
+            "precio": 275,
+            "stock": 100,
+            "foto": "../media/Burns.jpg"
+        },
+        
+        {
+            "nombre": "Dignidad",
+            "categoria": "Llaveros",
+            "descripcion": "Llavero de plástico realizado con impresión 3D",
+            "precio": 275,
+            "stock": 100,
+            "foto": "../media/Dignidad.jpg"
+        }
+        ,
+        {
+            "nombre": "Venus",
+            "categoria": "Llaveros",
+            "descripcion": "Llavero de plástico realizado con impresión 3D",
+            "precio": 275,
+            "stock": 100,
+            "foto": "../media/Venus.jpg"
+        }
+    ]
+}

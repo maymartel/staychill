@@ -1,0 +1,64 @@
+.botones {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    .botonesCategorias {
+        background-color: $colorVerde;
+        color: white;
+        font-size: 15px;
+        border-radius: 10px;
+        padding: 0px 10px 0px 10px;
+        
+    }
+
+}
+
+.noDisplay {
+    display: none;
+}
+
+.botonAgregar {
+    background-color: $colorVerde;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px;
+    height: 2rem;
+    width: auto;
+    margin: 1rem;
+    
+}
+
+.botonCarrito {
+    
+    background-color: $colorVerde;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    height: 2rem;
+    width: auto;
+    margin-top: 1rem;
+    text-transform: uppercase;
+}
+
+.botonCancelar {
+    background-color: $colorRojo;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: red;
+    margin: 1rem;
+}
+.botonConfirmarCompra {
+    background-color: $colorVerde;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 1rem;
+}
+
+.quitar {
+    background-color: $colorRojo;
+    color: white;
+    border-radius: 5px;
+    border-color: red;
+}

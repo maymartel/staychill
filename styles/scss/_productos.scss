@@ -1,0 +1,29 @@
+#seccionProductos {
+    display: flex;
+    flex-wrap: wrap;
+
+
+    .productoCard {
+        background-color: rgb(255, 255, 255);
+        margin: 25px;
+        width: 15rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .foto {
+            height: 300px;
+            width: auto;
+            border-radius: 25px
+        }
+
+        .titulo {
+            font-size: 20px;
+            font-weight: bolder;
+            text-transform: uppercase;
+
+        } 
+
+    }
+
+}

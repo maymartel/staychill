@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $fuentePrimaria;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .titulo {
+        margin: 1.5rem 0;
+    }
+}
