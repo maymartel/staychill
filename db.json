@@ -6,7 +6,7 @@
             "descripcion": "Remera de algodón cardado 24.1. Estampada con serigrafía",
             "precio": 1800,
             "stock": 100,
-            "foto": "../media/Cow control negra.jpg"
+            "foto": "./media/Cow control negra.jpg"
         },
         
         {
@@ -15,7 +15,7 @@
             "descripcion": "Remera de algodón cardado 24.1. Estampada con serigrafía",
             "precio": 1800,
             "stock": 100,
-            "foto": "../media/420 roja.jpg"
+            "foto": "./media/420 roja.jpg"
         }
         ,
         {
@@ -24,7 +24,7 @@
             "descripcion": "Remera de algodón cardado 24.1. Estampada con serigrafía",
             "precio": 1800,
             "stock": 100,
-            "foto": "../media/Hate azul.jpg"
+            "foto": "./media/Hate azul.jpg"
         }
     ]
     ,
@@ -35,7 +35,7 @@
             "descripcion": "Buzo de algodón con friza. Estampado con serigrafía",
             "precio": 2900,
             "stock": 100,
-            "foto": "../media/Arnold.jpg"
+            "foto": "./media/Arnold.jpg"
         },
         
         {
@@ -44,7 +44,7 @@
             "descripcion": "Buzo de algodón con friza. Estampado con serigrafía",
             "precio": 2900,
             "stock": 100,
-            "foto": "../media/dogabduction.jpg"
+            "foto": "./media/dogabduction.jpg"
         }
         ,
         {
@@ -53,7 +53,7 @@
             "descripcion": "Buzo de algodón con friza. Estampado con serigrafía",
             "precio": 2900,
             "stock": 100,
-            "foto": "../media/Suave.jpg"
+            "foto": "./media/Suave.jpg"
         }
     ]
     ,
@@ -64,7 +64,7 @@
             "descripcion": "Encendedor de plastico, 8cm de alto x 3,5cm de ancho x 1cm de espesor, recargable",
             "precio": 250,
             "stock": 100,
-            "foto": "../media/Alien.jpg"
+            "foto": "./media/Alien.jpg"
         },
         
         {
@@ -73,7 +73,7 @@
             "descripcion": "Encendedor de plastico, 8cm de alto x 3,5cm de ancho x 1cm de espesor, recargable",
             "precio": 250,
             "stock": 100,
-            "foto": "../media/WSP.jpg"
+            "foto": "./media/WSP.jpg"
         }
         ,
         {
@@ -82,7 +82,7 @@
             "descripcion": "Encendedor de plastico, 8cm de alto x 3,5cm de ancho x 1cm de espesor, recargable",
             "precio": 250,
             "stock": 100,
-            "foto": "../media/OVNI-PIZZA.jpg"
+            "foto": "./media/OVNI-PIZZA.jpg"
         }
     ]
     ,
@@ -93,7 +93,7 @@
             "descripcion": "Llavero de plástico realizado con impresión 3D",
             "precio": 275,
             "stock": 100,
-            "foto": "../media/Burns.jpg"
+            "foto": "./media/Burns.jpg"
         },
         
         {
@@ -102,7 +102,7 @@
             "descripcion": "Llavero de plástico realizado con impresión 3D",
             "precio": 275,
             "stock": 100,
-            "foto": "../media/Dignidad.jpg"
+            "foto": "./media/Dignidad.jpg"
         }
         ,
         {
@@ -111,7 +111,7 @@
             "descripcion": "Llavero de plástico realizado con impresión 3D",
             "precio": 275,
             "stock": 100,
-            "foto": "../media/Venus.jpg"
+            "foto": "./media/Venus.jpg"
         }
     ]
 }
